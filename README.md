@@ -1,4 +1,4 @@
-# Footballer Wrapper
+# Footballer Scraper
 
 If you want to use it
 
